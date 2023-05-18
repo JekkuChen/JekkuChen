@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-#### My name is Joey Chen and I'm an up and coming Computer Engineer! I love programming and making things work!  
-#### I specialize in Python, C/C++, Verilog/VHDL, and more! 
+#### Welcome to my personal repository! I store some common setting files here for various programs/shells/etc. You are free to copy or use these setting (as I copied a majority of these commands too)
 
 
