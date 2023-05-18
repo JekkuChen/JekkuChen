@@ -1,0 +1,5 @@
+set user_tcshrc="$HOME/.tcshrc.user"
+
+if (-r "${user_tcshrc}") then
+	source "${user_tcshrc}"
+endif
